@@ -1,3 +1,9 @@
+\/\/DELETE THIS STRING 1\/\/\
+yo, if you dont use replit delete the files:
+.replit
+replit.nix
+\/\/DELETE THIS STRING 5\/\/\
+
 # Replit + Remark.js
 
 Remark is a powerful slideshow creation tool that allows you to build great looking presentations using markdown and CSS. The slides are hosted directly on Replit and Remark providse all the features you would expect from a slideshow creation tool, [including keyboard shortcuts and presenter mode](https://github.com/gnab/remark/wiki/Keyboard-shortcuts).
